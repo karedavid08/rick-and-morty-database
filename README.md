@@ -1,6 +1,6 @@
-# rick_and_morty_database
+# Rick & Morty Database
 
-Browse and search the characters, locations and episodes of the Rick And Morty TV show.
+Browse and search the characters, locations and episodes of the Rick & Morty TV show.
 
 ## Getting Started
 
